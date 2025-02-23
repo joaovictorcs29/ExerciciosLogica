@@ -10,9 +10,7 @@ public class Valores02 {
     public void verificaParOuImpar() {
         if (this.valor1 % 2 == 0) {
             System.out.println("O valor " + this.valor1 + " é par.");
-        } else if (this.valor1 % 2 != 0) {
-            System.out.println("O valor " + this.valor1 + " é ímpar.");
-        } else System.out.println("Valor inválido");
+        } else System.out.println("O valor " + this.valor1 + " é ímpar.");
     }
 
     public void verificaPositivoNegativo() {
