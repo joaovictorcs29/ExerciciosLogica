@@ -11,14 +11,14 @@ public class Valores {
         this.c = c;
     }
 
-    public void somaDoisNumeros(int a,int b){
+    public void somaDoisNumeros(int a, int b) {
         int soma = this.a + this.b;
         System.out.println("Soma: " + soma);
-        if (soma < this.c ){
+        if (soma < this.c) {
             System.out.println("A soma entre a: " + a + " + b: " + b + " = " + soma + " e menor que c: " + c);
-        }else if( soma == this.c ){
+        } else if (soma == this.c) {
             System.out.println("A soma entre a: " + a + " + b: " + b + " = " + soma + " e igual a c: " + c);
-        }else System.out.println("A soma entre a: " + a + " + b: " + b + " = " + soma + " e maior a c: " + c);
+        } else System.out.println("A soma entre a: " + a + " + b: " + b + " = " + soma + " e maior a c: " + c);
     }
 
     public int getA() {
