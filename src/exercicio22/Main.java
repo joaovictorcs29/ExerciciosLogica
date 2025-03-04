@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println("Quociente da divisão: " + (a / b) );
         System.out.println("Resto da divisão: " + (a % b));
+        sc.close();
     }
 }
