@@ -116,11 +116,11 @@ algoritmo que calcule e imprima na tela em quantos anos serão necessários para
 22 - Faça um algoritmo que leia dois valores inteiros A e B, imprima na tela o quociente e o resto da divisão inteira
 entre eles.
 
-23 - Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor
+22- Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor
 da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido
 final.
 
-22 - Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz
+23 - Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz
 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância
 percorrida e a quantidade de litros utilizados para fazer a viagem.
 
